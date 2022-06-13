@@ -30,4 +30,4 @@ mainブランチでは作業せず、issue番号に対応した作業用ブラ�
 ## タスク管理
 
 [OrganizationのProjects](https://github.com/orgs/YHU-team18/projects/1)にすべてのタスクを登録する。  
-このProjectsからIssueを作成することでタスク管理とIssueが自動的に紐づくため、こちらからやることを推奨する。
+このProjectsからIssueを作成することでタスク管理とIssueが自動的に紐づくがIssueタブから作成する時と異なってテンプレートが使用できないため、記入漏れに気をつける。
